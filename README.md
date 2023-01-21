@@ -1,4 +1,4 @@
-h1 align="center">
+<h1> align="center">
     <img width="600" src="streamlit.jpg" />
 </h1>
 
@@ -27,8 +27,8 @@ Para compilar colocamos na mesma pasta o ficheiro heun.py e no terminal escrevem
 <br>
 <strong>python3 heun.py</strong><br>
 <br>
-
-<img src="streamlitgrafico.jpg" >
+<p>
+img width="600" <img src="streamlitgrafico.jpg" ></p>
 
 
 
