@@ -3,11 +3,11 @@
 </h1>
 
 
-<p align="center">
+<p> align="center">
 Grafico sobre Pêndulo Gravítico
 </p>
 
-<p align="center">
+<p> align="center">
     <img src="small-angle.gif" ></p>
 
 📌 Minha pagina do Pêndulo Gravítico
@@ -27,8 +27,9 @@ Para compilar colocamos na mesma pasta o ficheiro heun.py e no terminal escrevem
 <br>
 <strong>python3 heun.py</strong><br>
 <br>
+
 <p>
-img width="600" <img src="streamlitgrafico.jpg" ></p>
+<img width="600" img src="streamlitgrafico.jpg" /></p>
 
 
 
