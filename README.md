@@ -8,7 +8,7 @@ Grafico sobre Pêndulo Gravítico
 </p>
 
 <p align="center">
-    <img src="small-angle.gif" ></p>
+    <img src="angulo-pequeno.gif" ></p>
 
 📌 Minha pagina do Pêndulo Gravítico
 ------------------
@@ -29,7 +29,7 @@ Para compilar colocamos na mesma pasta o ficheiro heun.py e no terminal escrevem
 <br>
 
 <p align="center">
-    <img width="600" src="streamlitgrafico.jpg" />
+    <img width="600" src="stremlitgrafico.jpg" />
 </p>
 
 
