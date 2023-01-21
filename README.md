@@ -43,10 +43,10 @@ Atenção deve instalar o Docker no seu computador
 - <strong>Docker</strong>
 <br>
 <br>
-Para instalar o Docker: https://docs.docker.com/desktop/install/mac-install/
-💬 Fale comigo
-------------------
-[*Entre em contato comigo*](https://www.linkedin.com/in/ivo-baptista-3712144/)
+Para instalar o Docker: https://docs.docker.com/desktop/install/mac-install/<br>
+💬 Fale comigo<br>
+------------------<br>
+[*Entre em contato comigo*](https://www.linkedin.com/in/ivo-baptista-3712144/)<br>
 
 
 
