@@ -29,7 +29,7 @@ Para compilar colocamos na mesma pasta o ficheiro heun.py e no terminal escrevem
 <br>
 
 <p align="center">
-    <img width="600" src="stremlitgrafico.jpg" />
+    <img width="1400" src="stremlitgrafico.jpg" />
 </p>
 
 
