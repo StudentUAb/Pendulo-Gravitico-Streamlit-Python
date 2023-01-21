@@ -1,0 +1,10 @@
+version: "3"
+services:
+  app:
+    build: .
+    container_name: efoliob_Fisica.app
+    command: streamlit run pendulo.py
+    volumes:
+      - .:/efolioB_Fisica
+    ports:
+      - "8501:8501"
