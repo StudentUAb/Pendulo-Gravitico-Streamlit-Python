@@ -1,5 +1,5 @@
 h1 align="center">
-    <img width="600" src="python.jpg" />
+    <img width="600" src="streamlit.jpg" />
 </h1>
 
 
@@ -8,7 +8,7 @@ Grafico sobre Pêndulo Gravítico
 </p>
 
 <p align="center">
-    <img src="streamlit.gif" ></p>
+    <img src="small-angle.gif" ></p>
 
 📌 Minha pagina do Pêndulo Gravítico
 ------------------
