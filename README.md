@@ -34,7 +34,7 @@ Utilizamos o Docker para executar esta aplicação, para compilar colocamos na m
 </p>
 Atenção deve instalar o Docker no seu computador
 
-Ver demo aqui:   http://pendulo.ivo.com.pt:8501<br>
+Ver demo aqui:   http://pendulo.ivo.com.pt:8503<br>
 🔧 Tecnologias utilizadas:
 ------------------
 
